@@ -11,5 +11,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sagi21805&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=sagi21805&label=Profile%20Views&color=1&icon=6&pretty=false)](https://visitcount.itsvg.in)
+
