@@ -1,5 +1,5 @@
 # About Me 🔥:
-💻 I'm A 20 years old Self-taught developer<br>
+💻 I'm a 20 years old self-taught developer<br>
 🤖 I'm a _FIRST_ alum (been at _FIRST_ for 6 years now)<br>
 🔭 I’m currently working on an Operating System project written on Rust!
 # 📊 GitHub Stats:
